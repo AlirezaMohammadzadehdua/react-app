@@ -39,13 +39,6 @@ export default function Modal() {
                                     </p>
                                 </div>
                                 <div className="flex items-center justify-end p-6 border-t border-solid border-slate-200 rounded-b">
-                                    <button
-                                        className="border-[3px] border-blue-800 text-black hover:bg-blue-800 hover:text-white transform font-bold text-sm px-4 py-2 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
-                                        type="button"
-                                        onClick={() => setShowModal(false)}
-                                    >
-                                        بستن
-                                    </button>
                                 </div>
                             </div>
                         </div>
