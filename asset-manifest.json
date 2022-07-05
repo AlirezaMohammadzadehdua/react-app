@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4933942.css",
+    "main.js": "/static/js/main.2d7aef7d.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/GettyImages-1202870693.webp": "/static/media/GettyImages-1202870693.00d33b27ef19ea653774.webp",
+    "static/media/Blockchain.jpeg": "/static/media/Blockchain.c9e0786d14bc0c70e3b2.jpeg",
+    "static/media/2cbSe0RTRhV7mSAPCzqygsbNADongAm9XYcLjAOZ.png": "/static/media/2cbSe0RTRhV7mSAPCzqygsbNADongAm9XYcLjAOZ.3a986f7f5cfcf885832b.png",
+    "static/media/GRDtAF0RSNF7n2NiAycqlXNKiWsZMa9aq6iZnRSy.png": "/static/media/GRDtAF0RSNF7n2NiAycqlXNKiWsZMa9aq6iZnRSy.3ec9700dd4c004eef950.png",
+    "static/media/SSGISGSSRCSR.png": "/static/media/SSGISGSSRCSR.e591aee5155a59971773.png",
+    "static/media/maxresdefault-1.jpg": "/static/media/maxresdefault-1.aaa9793daa6cb7cc87c9.jpg",
+    "static/media/730_full_africa_map.png": "/static/media/730_full_africa_map.bfbeef0ca86a8b4ff9eb.png",
+    "static/media/gravity_well_cartography_2_by_lordsong-d5lrxws.jpg": "/static/media/gravity_well_cartography_2_by_lordsong-d5lrxws.a57d4567b02015be4441.jpg",
+    "static/media/MV5BMDFlMTllMzEtMzhmMC00MmU5LTkyM2EtMThkMTQ4ZDYyZDFkXkEyXkFqcGdeQXVyNTYxMzI5MTk@._V1_.jpg": "/static/media/MV5BMDFlMTllMzEtMzhmMC00MmU5LTkyM2EtMThkMTQ4ZDYyZDFkXkEyXkFqcGdeQXVyNTYxMzI5MTk@._V1_.2fddc1e463952c0da6ac.jpg",
+    "static/media/how-the-universe-works-science-channel-season-5-release-date.jpg": "/static/media/how-the-universe-works-science-channel-season-5-release-date.94a37a215e8f777a5270.jpg",
+    "static/media/https.webp": "/static/media/https.94821a1f315133171be8.webp",
+    "static/media/cover.webp": "/static/media/cover.7bdb857567a97c3ea85e.webp",
+    "static/media/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg": "/static/media/data-science-predictions-for-near-future-1024x440.jpeg.optimal.34c394e4c18b53dc217d.jpeg",
+    "static/media/bP8wV4OTP563o7Ch0zSvCkv1ANOEcyPg9szrVgok.jpg": "/static/media/bP8wV4OTP563o7Ch0zSvCkv1ANOEcyPg9szrVgok.b852e404c67ea4e47fbc.jpg",
+    "static/media/K5kPayf4aw92S2VIDxQ5YCMOUqadJVQkKQcKaXcB.jpg": "/static/media/K5kPayf4aw92S2VIDxQ5YCMOUqadJVQkKQcKaXcB.c45ddf17a30b1b56b308.jpg",
+    "static/media/nativeHybrid.png": "/static/media/nativeHybrid.4986493885153b2f40ef.png",
+    "static/media/1754057.jpg": "/static/media/1754057.f4eab47fed8714a718f2.jpg",
+    "static/media/Xub58vuiCCEKHLGuM4QWBU-400x255.jpg": "/static/media/Xub58vuiCCEKHLGuM4QWBU-400x255.b6638ef71baf2c3b4aa9.jpg",
+    "static/media/blockchain.svg": "/static/media/blockchain.930f2fa8e46c2b6c1a2ab5d0a7684385.svg",
+    "index.html": "/index.html",
+    "main.d4933942.css.map": "/static/css/main.d4933942.css.map",
+    "main.2d7aef7d.js.map": "/static/js/main.2d7aef7d.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4933942.css",
+    "static/js/main.2d7aef7d.js"
+  ]
+}
