@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.2e9ea3a1.css",
-    "main.js": "/react-app/static/js/main.2561a93f.js",
+    "main.css": "/react-app/static/css/main.d4933942.css",
+    "main.js": "/react-app/static/js/main.bd2cdde5.js",
     "static/js/787.b701888c.chunk.js": "/react-app/static/js/787.b701888c.chunk.js",
     "static/media/GettyImages-1202870693.webp": "/react-app/static/media/GettyImages-1202870693.00d33b27ef19ea653774.webp",
     "static/media/Blockchain.jpeg": "/react-app/static/media/Blockchain.c9e0786d14bc0c70e3b2.jpeg",
@@ -23,12 +23,12 @@
     "static/media/Xub58vuiCCEKHLGuM4QWBU-400x255.jpg": "/react-app/static/media/Xub58vuiCCEKHLGuM4QWBU-400x255.b6638ef71baf2c3b4aa9.jpg",
     "static/media/blockchain.svg": "/react-app/static/media/blockchain.930f2fa8e46c2b6c1a2ab5d0a7684385.svg",
     "index.html": "/react-app/index.html",
-    "main.2e9ea3a1.css.map": "/react-app/static/css/main.2e9ea3a1.css.map",
-    "main.2561a93f.js.map": "/react-app/static/js/main.2561a93f.js.map",
+    "main.d4933942.css.map": "/react-app/static/css/main.d4933942.css.map",
+    "main.bd2cdde5.js.map": "/react-app/static/js/main.bd2cdde5.js.map",
     "787.b701888c.chunk.js.map": "/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e9ea3a1.css",
-    "static/js/main.2561a93f.js"
+    "static/css/main.d4933942.css",
+    "static/js/main.bd2cdde5.js"
   ]
 }
