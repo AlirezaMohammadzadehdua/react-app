@@ -63,6 +63,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![Alt](https://repobeats.axiom.co/api/embed/dc0f88915259cccb298c4e344881f917454b5cb2.svg "Repobeats analytics image")
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
